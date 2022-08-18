@@ -1,0 +1,61 @@
+## Basic Configuration
+
+baseurl = "https://movementkingdom.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "de-DE"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Dominik Stamm"
+title = "movement.king.dom"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "movement.king.dom"
+intro = "Mindfull Movement"
+description = "Mindfull Movement"
+logoimage = "/images/logo_gorilla.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "movement.king.dom links page"
+keywords = "yoga,budokon,training,mindful,movement"
+
+## Social Accounts
+[params.social]
+instagram = "movement.king.dom"
+youtube = "movement.king.dom"
+telegram = "movement.king.dom"
+email = "movement.king.dom@icloud.com"
+
+## Extras
+[params.extra]
+copyright = "© 2022. Dominik Stamm."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "Aktuelle Kurse"
+    identifier = "courses"
+    weight = 300
+    url = "https://www.fyndery.de/coach/4942/movementkingdom/?ref=4942#courses_tab"
+[[menu.main]]
+    name = "Über mich"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
