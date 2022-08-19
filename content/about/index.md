@@ -8,6 +8,7 @@ tags = ["about"]
 title = "Über mich"
 
 showpagemeta = false
+showcomments = false
 +++
 
 Mein Name ist Dom, ich bin passionierter Mover, Yogi, Kampfkunstbegeisterter und Budokon Coach. Ich hab es mir zur Aufgabe gemacht dir zu zeigen, wie man durch mehr Achtsamkeit im Trainig und Alltag zur vielleicht besten Version von sich selbst werden kann und dabei auch noch eine Menge Spaß hat.

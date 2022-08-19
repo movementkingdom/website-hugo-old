@@ -12,8 +12,6 @@ publishdir = "public"
 author = "Dominik Stamm"
 title = "movement.king.dom"
 
-theme = "hugo-goa"
-
 ## Hugo Built-in Features
 disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
@@ -23,8 +21,8 @@ enableRobotsTXT = true
 [params]
 author = "movement.king.dom"
 intro = "Mindfull Movement"
-description = "Mindfull Movement"
-logoimage = "/images/logo_gorilla.png"
+description = "Move.More.Mindfully."
+logoimage = "/images/my_logo.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -35,8 +33,8 @@ keywords = "yoga,budokon,training,mindful,movement"
 ## Social Accounts
 [params.social]
 instagram = "movement.king.dom"
-youtube = "movement.king.dom"
-telegram = "movement.king.dom"
+youtube = "UCooXqc9diNrrr8dmAk6EFPQ"
+telegram = "movementkingdom"
 email = "movement.king.dom@icloud.com"
 
 ## Extras
@@ -46,7 +44,7 @@ poweredby = true
 highlightjs = true
 socialmarkup = true
 toc = true
-displayrssicon = true
+displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
