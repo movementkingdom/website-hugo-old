@@ -1,15 +1,15 @@
-+++
-categories = ["about"]
-comments = false
-date = "2022-08-18T20:00:00+02:00"
-draft = false
-slug = ""
-tags = ["about"]
-title = "Über mich"
+---
+title: "Über mich"
+date: "2022-08-18T20:00:00+02:00"
+draft: false
 
-showpagemeta = false
-showcomments = false
-+++
+tags: ["about"]
+categories: ["about"]
+comments: false
+
+showpagemeta: false
+showcomments: false
+---
 
 Mein Name ist Dom, ich bin passionierter Mover, Yogi, Kampfkunstbegeisterter und Budokon Coach. Ich hab es mir zur Aufgabe gemacht dir zu zeigen, wie man durch mehr Achtsamkeit im Trainig und Alltag zur vielleicht besten Version von sich selbst werden kann und dabei auch noch eine Menge Spaß hat.
 
