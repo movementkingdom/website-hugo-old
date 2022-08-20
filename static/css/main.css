@@ -134,6 +134,11 @@ div.content
 }
 .headshot
 {
+    width: 200px;
+    height: 200px;
+}
+.logo
+{
     width: 350px;
     height: 180px;
 }

@@ -22,7 +22,8 @@ enableRobotsTXT = true
 author = "movement.king.dom"
 intro = "Mindfull Movement"
 description = "Move.More.Mindfully."
-logoimage = "/images/logo.png"
+logoimage = "logo.png"
+avatarimage = "avatar.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
