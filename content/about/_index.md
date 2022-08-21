@@ -11,9 +11,9 @@ showpagemeta: false
 showcomments: false
 ---
 
-Mein Name ist Dom, ich bin passionierter Mover, Yogi, Kampfkunstbegeisterter und Budokon Coach. Ich hab es mir zur Aufgabe gemacht dir zu zeigen, wie man durch mehr Achtsamkeit im Trainig und Alltag zur vielleicht besten Version von sich selbst werden kann und dabei auch noch eine Menge Spaß hat.
+Hi, mein Name ist Dom und ich bin passionierter Mover, Yogi, Kampfkunstbegeisterter und Budokon Coach. Ich hab es mir zur Aufgabe gemacht dir zu zeigen, wie du durch mehr Achtsamkeit im Trainig und Alltag zur vielleicht besten Version deiner selbst werden kannst und dabei auch noch eine Menge Spaß hast.
 
-Durch die verschiedenen Säulen des Budokon wie Yoga, Mobility, Calisthenics, Martial Arts und den kognitiven Studien wirst du nicht nur stärker, beweglicher und achtsamer als jemals zuvor, sondern du lernst dieses Wissen auch in anderen Bereichen des Lebens anzuwenden.
+Dafür arbeite ich mich den verschiedenen Säulen des Budokon (Yoga, Mobility, Calisthenics, Martial Arts und kognitive Studien) und kombiniere diese mit modernem Yoga, Personal- und Achtsamkeitstraining. Durch dieses Packet wirst du nicht nur stärker, beweglicher und achtsamer als jemals zuvor, sondern du lernst dieses Wissen auch in anderen Bereichen des Lebens anzuwenden.
 
 Falls du Lust bekommen hast würde ich mich freuen von dir zu hören!
 
@@ -26,6 +26,7 @@ ___
 
 **2022**
 - 200h Element Yoga
+- Neuro Performance Level 1
 
 **2021**
 - Athletiktrainer Level A-Lizenz
