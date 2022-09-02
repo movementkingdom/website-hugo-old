@@ -50,9 +50,9 @@ displayrssicon = false
 ## Main Menu
 [[menu.main]]
     name = "Aktuelle Kurse"
-    identifier = "courses"
+    identifier = "kurse"
     weight = 300
-    url = "https://www.fyndery.de/coach/4942/movementkingdom/?ref=4942#courses_tab"
+    url = "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&src=aGxhMW0wbXM1dHBwZmZnOW12MXEyMm9vamdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23616161"
 [[menu.main]]
     name = "Über mich"
     identifier = "about"
