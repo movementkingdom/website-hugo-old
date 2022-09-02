@@ -1,7 +1,18 @@
 /* Add custom CSS here. */
 .highlight > pre {
-    padding: 0.5rem 0.8rem;
-    border: 1px solid;
-    border-color: #ddd #ddd #ccc;
-    border-radius: 3px;
-  }
+  padding: 0.5rem 0.8rem;
+  border: 1px solid;
+  border-color: #ddd #ddd #ccc;
+  border-radius: 3px;
+}
+
+.frame {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  box-sizing: border-box;
+}
