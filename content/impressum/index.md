@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
-date: 2022-08-20T17:24:57+02:00
-draft: false
+date: "2022-08-20T17:24:57+02:00"
+type: impressum
 
 showpagemeta: false
 showcomments: false

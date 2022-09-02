@@ -52,9 +52,14 @@ displayrssicon = false
     name = "Aktuelle Kurse"
     identifier = "kurse"
     weight = 300
-    url = "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&src=aGxhMW0wbXM1dHBwZmZnOW12MXEyMm9vamdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23616161"
+    url = "/kurse/" ##"https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&src=aGxhMW0wbXM1dHBwZmZnOW12MXEyMm9vamdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23616161"
 [[menu.main]]
     name = "Über mich"
     identifier = "about"
     weight = 300
     url = "/about/"
+[[menu.main]]
+    name = "News"
+    identifier = "news"
+    weight = 300
+    url = "/news/"

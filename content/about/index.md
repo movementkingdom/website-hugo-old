@@ -1,6 +1,7 @@
 ---
 title: "Über mich"
 date: "2022-08-18T20:00:00+02:00"
+type: about
 
 showpagemeta: false
 showcomments: false

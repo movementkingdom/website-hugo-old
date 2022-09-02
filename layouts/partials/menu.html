@@ -1,5 +1,5 @@
 <section id="menu-pane" class="menu text-center">
-  {{ if not .IsNode }}
+  {{ if (and (not .IsNode) (not (eq .BundleType "leaf")))}}
   {{ with .PrevInSection }}
   <span><a class="menu-item" href="{{ .Permalink }}">&lt; zurück | </a></span>
   {{ end }}
