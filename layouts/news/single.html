@@ -1,11 +1,15 @@
-{{ partial "header.html" . }}
+{{ partial "header.html" . }} {{ partial "content.html" . }}
 
-{{ partial "content.html" . }}
+<div class="container" align="center">
+  <div class="h_iframe">
+    <iframe
+      src="https://xn--r1a.website/s/mkdrgbnews"
+      class="frame"
+      style="border: solid 1px #777"
+      frameborder="0"
+      scrolling="no"
+    ></iframe>
+  </div>
+</div>
 
-<p align="center">
-    <iframe id="preview" style="border:0px;height:500px;width:350px;margin:5px;box-shadow: 0 0 16px 3px rgba(0,0,0,.2);" src="https://xn--r1a.website/s/mkdrgbnews"></iframe>
-</p>
-
-{{ partial "menu.html" . }}
-
-{{ partial "footer.html" . }}
+{{ partial "menu.html" . }} {{ partial "footer.html" . }}
